@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = higgins.joshua91@gmail.com
+	name = Joshua Higgins
